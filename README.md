@@ -1,16 +1,27 @@
-# tic_tac_toe
+# Tic-Tac-Toe Game 🎮
 
-online tic toc game
+This is a simple yet engaging Tic-Tac-Toe game. Users can play against a bot, with a friend locally, or online in a private room with a friend.
 
-## Getting Started
+## Features ✨
 
-This project is a starting point for a Flutter application.
+- **Play against a Bot** 🤖: Users can challenge a bot.
+- **Play with Friends** 👫: Users can create a private room using a unique code and share it with friends to join.
 
-A few resources to get you started if this is your first Flutter project:
+## Streaming game 📸\
+![Stream Video](/ic-tak-toe.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Getting Started 🚀
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To get a local copy up and running, follow these simple steps:
+
+### Prerequisites
+
+- Flutter SDK (version 3.0+)
+- Dart SDK
+- An IDE (e.g., Android Studio, VS Code)
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
