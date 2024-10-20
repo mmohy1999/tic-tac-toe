@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tic_tac_toe</string>
+    <string name="facebook_app_id">1597142001186593</string>
+    <string name="fb_login_protocol_scheme">fb1597142001186593</string>
+    <string name="facebook_client_token">58325b5d8faa04e5048d68731fb89c7f</string>
+
+
+</resources>
