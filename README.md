@@ -7,8 +7,8 @@ This is a simple yet engaging Tic-Tac-Toe game. Users can play against a bot, wi
 - **Play against a Bot** 🤖: Users can challenge a bot.
 - **Play with Friends** 👫: Users can create a private room using a unique code and share it with friends to join.
 
-## Streaming game 📸\
-![Stream Video](/ic-tak-toe.gif)
+## Streaming game 🎮
+![Stream Video](/tic-tak-toe.gif)
 
 ## Getting Started 🚀
 
